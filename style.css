@@ -1,0 +1,9 @@
+
+.container {
+    min-height: 100vh;
+}
+
+footer {
+    padding:0;
+    margin: 0;
+}
