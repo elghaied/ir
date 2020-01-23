@@ -82,8 +82,6 @@ echo '</pre>';
 ?>
 
 <div class="row ">
-
-<div class="col-9">
     <div class="col-6 justify-content-center align-items-center">
 <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="post" enctype="multipart/form-data">
 
@@ -137,8 +135,7 @@ echo '</pre>';
 </div>
 
 </div>
+
 </div>
-
-
 
 <?php include 'footer.php'; ?>
